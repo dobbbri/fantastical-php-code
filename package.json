@@ -1,7 +1,7 @@
 {
   "name": "fantastical-php-code",
-  "displayName": "fantastical-php-code",
-  "description": "for php code development",
+  "displayName": "Fantastical PHP/Laravel Pack",
+  "description": "Extension Pack for php code development",
   "version": "0.0.1",
   "publisher": "sldobri",
   "engines": {
@@ -10,8 +10,15 @@
   "categories": [
     "Extension Packs"
   ],
+  "keywords": [
+    "laravel",
+    "blade",
+    "php"
+  ],
   "extensionDependencies": [
-    "DotJoshJohnson.xml",
+    "onecentlin.laravel-blade",
+    "onecentlin.laravel5-snippets",
+    "ryannaddy.laravel-artisan",
     "bmewburn.vscode-intelephense-client",
     "kokororin.vscode-phpfmt",
     "predrag-nikolic.php-class-helper"
