@@ -7,6 +7,15 @@
   "engines": {
     "vscode": "^1.21.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sldobri/fantastical-php-code"
+  },
+  "icon": "logo.png",
+  "galleryBanner": {
+    "color": "#0b1015",
+    "theme": "dark"
+  },
   "categories": [
     "Extension Packs"
   ],
