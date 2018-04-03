@@ -1,5 +1,19 @@
 # README
 ## This is the README for your extension pack "fantastical-php-code"
+
+ Preferences -> Settings
+ ```json
+ "emmet.includeLanguages": {
+    "blade": "html"
+},
+"emmet.triggerExpansionOnTab": true,
+```
+
+ p.s. Since VS Code v1.15, please update preference settings from `emmet.syntaxProfiles` to `emmet.includeLanguages`.
+
+ Please set `emmet.triggerExpansionOnTab` value to `true` if you want to enable tab to expanse emmet tags.
+
+
 You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
 * Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
