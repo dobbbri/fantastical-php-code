@@ -1,3 +1,6 @@
+### Version 0.1.2
+- add extensions name in readme
+
 ### Version 0.1.1
 - add blade-spacer
 

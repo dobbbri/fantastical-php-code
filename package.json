@@ -2,7 +2,7 @@
   "name": "fantastical-php-code",
   "displayName": "Fantastic PHP/Laravel Pack",
   "description": "Extension Pack for php code development",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "publisher": "sldobri",
   "engines": {
     "vscode": "^1.21.0"
